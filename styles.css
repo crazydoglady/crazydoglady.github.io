@@ -1,0 +1,35 @@
+p{
+	border: 1px solid blue;
+	padding: 10px 5px 30px 2px;
+	outline: 3px dotted black;
+}
+
+div {
+	color: blue;
+}
+
+li{
+	color: red;
+}
+ul li{
+	color: green;
+	font-weight: bold;
+	font-size: 32px;
+	list-style-type: none;
+}
+
+ol li{
+	color: rgb(0,0,0);
+}
+
+#first-paragraph{
+	border:5px solid #9847d0;
+}
+
+p.ptag {
+	background-color: #9847d0;
+}
+
+.ptag.another_class {
+
+}
