@@ -1,0 +1,20 @@
+#headline{
+	font-family: bold;
+	font-size: 48px;
+} 
+head{
+	background-color: #008800;
+	color: black;
+	opacity: 0.5;
+}
+
+body{
+	background-color: #008800;
+	color: black;
+}
+.ptag{
+background-color: #99ff66;
+	color: black;
+	opacity: 0.5;	
+}
+
