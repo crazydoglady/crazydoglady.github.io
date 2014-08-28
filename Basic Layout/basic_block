@@ -1,0 +1,65 @@
+<!DOCtype html>
+<html>
+<head>
+	<title>My Web 101 Project</title>
+	<link rel="stylesheet" href="main_styles.css">
+</head>
+
+<body>
+
+	<div class="container">
+		<header>
+			<img class="logo"src="logo.png"/>
+			<ul>
+				<li>
+					<a href="http://www.google.com">Nav Item 1</a>
+				</li>
+				<li>
+					<a href="http://www.awesomefont.com">Nav Item 2</a>
+				</li>
+				<li>Nav Item 3</li>
+				<li class="last">Nav Item 4</li>
+			</ul>
+		</header>
+
+		<div class="main">
+			<img class="banner_image"src="banner_image.png"/>
+
+			<div class="sub_banner"></div>
+			<div class="sub_banner"></div>
+			<div class="sub_banner"></div>
+
+
+			<img class="featured_image" src="#"/>
+
+			<h3 class="featured_title">Section Heading</h3>
+			<p>
+				Lorem ipsum - tai fiktyvus tekstas naudojamas spaudos ir grafinio dizaino pasaulyje jau nuo XVI a. pradžios. Lorem Ipsum tapo standartiniu fiktyviu tekstu, kai nežinomas spaustuvininkas atsitiktine tvarka išdėliojo raides atspaudų prese ir tokiu būdu sukūrė raidžių egzempliorių. Šis tekstas išliko beveik nepasikeitęs ne tik penkis amžius, bet ir įžengė i kopiuterinio grafinio dizaino laikus. Jis išpopuliarėjo XX a. šeštajame dešimtmetyje, kai buvo išleisti Letraset lapai su Lorem Ipsum ištraukomis, o vėliau -leidybinė sistema AldusPageMaker, kurioje buvo ir Lorem Ipsum versija.
+			</p>
+
+		</div><!--/.main-->
+
+		<footer>
+			<ul class="social_icons">
+				<li><img src="#" alt="facebook"/></li>
+				<li><img src="#" alt="twitter"/></li>
+				<li><img src="#" alt="google plus"/></li>
+				<li><img src="#" alt="vimeo"/></li>
+			</ul>
+
+		</footer>
+
+
+
+
+	</div> 
+
+
+
+
+
+</body>
+
+
+
+</html>
