@@ -25,26 +25,35 @@
 		<div class="main">
 			<img class="banner_image"src="banner_image.png"/>
 
-			<div class="sub_banner"></div>
-			<div class="sub_banner"></div>
-			<div class="sub_banner"></div>
+			<img class="sub_banner" src= "subbanner.png"/>
+			<img class="sub_banner" src= "subbanner.png"/>
+			<img class="sub_banner last" src= "subbanner.png"/>
 
-
-			<img class="featured_image" src="#"/>
+			<img class="featured_image" src="480x300.png"/>
 
 			<h3 class="featured_title">Section Heading</h3>
 			<p>
 				Lorem ipsum - tai fiktyvus tekstas naudojamas spaudos ir grafinio dizaino pasaulyje jau nuo XVI a. pradžios. Lorem Ipsum tapo standartiniu fiktyviu tekstu, kai nežinomas spaustuvininkas atsitiktine tvarka išdėliojo raides atspaudų prese ir tokiu būdu sukūrė raidžių egzempliorių. Šis tekstas išliko beveik nepasikeitęs ne tik penkis amžius, bet ir įžengė i kopiuterinio grafinio dizaino laikus. Jis išpopuliarėjo XX a. šeštajame dešimtmetyje, kai buvo išleisti Letraset lapai su Lorem Ipsum ištraukomis, o vėliau -leidybinė sistema AldusPageMaker, kurioje buvo ir Lorem Ipsum versija.
+
+				Lorem ipsum dolor sit amet, graece hendrerit pro te, et oblique torquatos concludaturque has. Ex nisl percipitur his. Quo nostro molestie persequeris ad. Mei quodsi ullamcorper id, at vis aperiri delicatissimi.
+
+				Eum summo definitiones ad. Nostrud incorrupte mei ea. Ea eam vero mentitum tacimates, mei ut veniam officiis urbanitas. Ut vis lucilius assueverit inciderint, in nonumy meliore inciderint eum. At eam congue nonumes assueverit. Et esse aliquid vim, alia legimus vituperata in eum, eu his labitur consulatu.
+
+				Sumo nostrum te ius, veri cetero propriae vel at. Qui in accumsan recteque, ei volutpat neglegentur deterruisset est. Qui nonumes epicuri ad. Qui nostrud splendide ad, nec posse liber id, mea repudiare mnesarchum ut. Ad duo equidem pertinacia comprehensam, ei vix aperiam maluisset.
+
+				Id mel choro postulant, te pro ferri dicant. Nec congue civibus ad, nam ne sapientem moderatius. Te animal delenit mei, facete commodo vocibus sed ea. In sed alia phaedrum. Duo ei mazim repudiandae definitiones, at velit denique voluptua vim. Ea usu elit option eloquentiam. Oporteat qualisque eu eos.
+
+				An has rebum oratio fastidii, augue delicata gubergren eum ex. Noluisse officiis te sed. Qui nonumes epicuri ea, nostrud debitis vim ne, an nam erant recusabo voluptatibus. Aeque constituam ea vim.
 			</p>
 
 		</div><!--/.main-->
 
 		<footer>
 			<ul class="social_icons">
-				<li><img src="#" alt="facebook"/></li>
-				<li><img src="#" alt="twitter"/></li>
-				<li><img src="#" alt="google plus"/></li>
-				<li><img src="#" alt="vimeo"/></li>
+				<li><!--<img src="#" alt="facebook"/>--></li>
+				<li><!--<img src="#" alt="twitter"/>--></li>
+				<li><!--<img src="#" alt="google plus"/>--></li>
+				<li><!--<img src="#" alt="vimeo"/>--></li>
 			</ul>
 
 		</footer>

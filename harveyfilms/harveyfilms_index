@@ -1,0 +1,65 @@
+<!DOCtype html>
+<html>
+<head>
+	<title>Harveyfilme_Erika_j_Harvey</title>
+	<link rel="stylesheet" href="harveyfilms_styles.css">
+</head>
+
+<body>
+
+	<div class="container">
+		<header>
+			<img class="logo"src="images/logo.png"/>
+			<ul>
+				<li>
+					<a href="http://www.vimeo.com/user13126156">Editing Reel</a>
+				</li>
+				<li>
+					<a href="https://www.linkedin.com/profile/view?id=40307275&authType=NAME_SEARCH&authToken=XpNL&locale=en_US&trk=tyah2&trkInfo=tarId%3A1409507227461%2Ctas%3Aerika%2Cidx%3A1-2-2">LinkedIn</a>
+				</li>
+				<li>Media</li>
+				<li class="header ul li last">Contact </li>
+			</ul>
+		</header>
+
+		<div class="main">
+			<img class="banner_image"src="banner_image.png"/>
+
+			<div class="sub_banner"></div>
+			<div class="sub_banner"></div>
+			<div class="sub_banner"></div>
+
+
+			<img class="featured_image" src="#"/>
+
+			<h3 class="featured_title">Section Heading</h3>
+			<p>
+				Erika j Harvey biography and information. 
+			</p>
+
+		</div><!--/.main-->
+
+		<footer>
+			<ul class="social_icons">
+				<li><img src="#" alt="facebook"/></li>
+				<li><img src="#" alt="twitter"/></li>
+				<li><img src="#" alt="google plus"/></li>
+				<li><img src="#" alt="vimeo"/></li>
+			</ul>
+
+		</footer>
+
+
+
+
+	</div> 
+
+
+
+
+
+</body>
+
+
+
+</html>
