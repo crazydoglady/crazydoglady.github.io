@@ -56,10 +56,10 @@ body{
 	font-size: 12;	
 }
 
-
 .container{
 	width: 100%;
 	margin: 0 auto;
+	background-color: rgb(192,192,192)
 }
 
 header{
@@ -73,11 +73,17 @@ header{
 	margin-top: 15px;
 	float: left;
 }
-
+.tvistor{
+	width: 30%;
+	height: 30%;
+	margin-top: 30px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
 header ul{
 	float: left;
 	width: 600px;
-	margin-left: 40px;
+	margin-left: 20px;
 	margin-top: 65px;
 }
 header ul li{
@@ -89,6 +95,13 @@ header ul li a{
 	color: #444444;
 }
 
+.banner_image{
+	width: 30%;
+	height: 30%;
+	margin-left: 300px;
+	margin-right: 300px;
+
+	}
 .last{
 	margin-right: 0px;
 }

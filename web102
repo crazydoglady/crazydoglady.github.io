@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Box Model Example</title>
+	<link rel="stylesheet" href="web102_styles"/>
+</head>
+<body>
+	<div class="margin"> 
+		<div class="element">
+			<div class="content">Hello, my name is content</div>
+		</div>
+	</div>
+</body>
+</html>
