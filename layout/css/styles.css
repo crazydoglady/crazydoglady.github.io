@@ -1,0 +1,17 @@
+header{
+	width: 960px;
+	margin: auto;
+	font-family: helvetica;
+	font-size: 20px;
+}
+
+nav ul{
+	position:relative;
+	display: inline;
+	top: -100px; 
+}
+nav ul li{
+	display: inline;
+	padding: 25px;
+
+}

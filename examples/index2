@@ -1,0 +1,48 @@
+<!DOCTYPE html/> 
+<html>
+	<head>
+		 <link rel="stylesheet" href="styles2.css"> 
+		<script type="text/javascript" src="main.js.js"></script>
+	</head>
+	<body>
+		<!--<form name="myform">
+			<input id="num1" type="text"/>
+			<input id="num2" type="text"/>
+			<button type="button" onclick="add()">ADD</button>
+		</form>
+		 <div id="results"></div>	 -->
+
+		<div class="box">MY TEST PAGE</div>
+		<div class="box2">MY TEST PAGE</div>
+
+		<!-- <ul> 
+			<li name="taco">Test1</li>
+			<li name="taco">Test2</li>
+			<li>Test3</li>
+			<li>Test4</li>
+			<li>Test5</li>
+			<li>Test6</li>
+			<li name="taco">Test7</li>
+		</ul>
+			<span class="monkey">my span</span>
+			<span>my span</span>
+			<span>my span</span>
+			<span>my span</span>
+
+		<div class="monkey">	
+			<ul>
+				<li>Test1</li>
+				<li>Test2</li>
+				<li>Test3</li>
+				<li name="taco">Test4</li>
+				<li>Test5</li>
+				<li>Test6</li>
+				<li name="taco">Test7</li>
+			</ul>
+			<span>my span</span>
+			<span>my span</span>
+			<span>my span</span>
+			<span>my span</span>	
+		</div>	-->
+	</body>	
+</html>	

@@ -1,0 +1,94 @@
+a{
+	color: #333;
+	font-size: 75px;
+	text-decoration: none;
+}
+
+a:link{
+	color:red;
+}
+a:visited{
+	color: #111;
+	}
+
+a:active{
+	color: blue;
+	}	
+a:hover{
+	color: purple;
+	}
+
+input:focus{
+	background-color: green;
+}
+
+p::first-letter{
+	font-size: 50px; 
+}
+
+p::first-line{
+	color: magenta;
+}
+
+li:first-child {
+	color: skyblue
+}
+
+.test::before{
+	content: "Read this";
+}
+
+.test::after{
+	content: "DON'T LICK ME";
+}
+
+.test:lang(it){
+	color: orange;
+}
+
+/*li:nth-child(2n+3){
+	background-color: #eee;
+}*/
+
+tr:nth-child(even){
+	background-color: #eee;
+}
+tr:nth-child(odd){
+	background-color: #ccc;
+}
+
+li:nth-last-child(2n+3){
+background-color: #eee;
+}
+
+td:nth-of-type(2){
+	color: yellow;
+}
+
+li:last-child{
+	color:purple;
+}
+
+.container img{
+	width: 100%;
+	height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

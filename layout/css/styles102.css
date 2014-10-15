@@ -1,0 +1,170 @@
+body{
+	background:url('../images/bg_wood.png') no-repeat fixed center;
+}
+
+.container{
+	width: 960px;
+	margin:0 auto;
+}
+
+header{
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	background-color: #7e7a7a;
+	border-bottom: 1px solid black;	
+	box-shadow: 2px 2px 4px #888; 
+}
+
+header div.logo{
+	float: left;
+	cursor: pointer;
+}
+
+header nav{
+	float: left;
+}
+
+header nav #main-nav > li{
+	display: inline-block;
+	position: relative;
+}
+header nav ul{	
+	margin: 0;
+	padding: 0;
+}
+
+header nav ul li a{
+	display: block;
+	padding: 41px;
+	font-size: 20px;
+	text-decoration: none;
+	color: #fff;
+	-moz-transition: all 0.3s ease-in-out; 
+	-webkit-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+header nav ul li a:hover{
+	background-color: #a0a0a0;
+	cursor: pointer;
+}
+
+header nav ul.dropdown{
+	position: absolute;
+	margin-top: -9999px; /*Get dropdown menus away from rest of elements*/
+	width: 100%;
+	background-color: #7e7a7a;
+	list-style-type: none;
+	opacity: 0;
+	z-index: 9999;
+	-moz-transition: all 0.3s ease-in-out; /*only opacity nothing else  dont give a z index transition here*/
+	-webkit-transition: all 0.3s ease-in-out;/*only opacity nothing else  dont give a z index transition here*/
+	-ms-transition: all 0.3s ease-in-out;/*only opacity nothing else  dont give a z index transition here*/
+	-o-transition: all 0.3s ease-in-out;/*only opacity nothing else  dont give a z index transition here*/
+	transition: all 0.3s ease-in-out;/*only opacity nothing else  dont give a z index transition here*/
+}
+header nav #main-nav li.has-dropdown:hover > ul.dropdown {
+	opacity:1;
+	margin-top: 0;  /*Reset margin back to 0 on hover of main nav items*/
+}
+
+header nav ul.dropdown li a{
+padding-top: 20px 20px 20px 35px;
+}
+
+#content{
+	padding: 150px;
+}
+
+section{
+	margin-bottom: 50px;
+}
+
+section::after{
+	clear: both;
+}
+
+.events .event {
+	display:inline-block;
+	margin-right: 25px;
+}
+
+.events .event.last{
+	margin-right: 0;
+}
+
+.upcoming_news{
+	overflow: auto;
+}
+
+.upcoming_news .half{
+	width: 50%;
+	float: left;
+}
+
+.upcoming_news .news{
+	padding-left: 50px;
+	float: left;
+	width: 430px;
+	height: 300px;
+	overflow-y:	auto;
+}
+
+.upcoming_news .news h3{
+	margin-top: 0;
+}
+
+#slider-2{
+	position: relative;
+}
+#slider-2 .icon {
+	position: absolute;
+	top: 10px;
+	width: 30px;
+	height: 30px;
+	border: 1px solid #000;
+	border-radius: 100px;
+	background-color: #fff;
+}
+
+#slider-2 .icon:nth-child(2) {
+	left: 10px;
+}
+
+#slider-2 .icon:nth-child(3) {
+	left: 50px;
+}
+
+#slider-2 .icon:nth-child(4){
+	left: 92px;
+}
+
+#slider-2 .icon:last-child {
+	left: 134px;
+}
+footer {
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	background-color: #7e7a7a;
+	border-top: 1px solid black;
+	box-shadow: 2px -2px 4px black;
+}
+
+footer p {
+	margin-top: 40px;
+	color: #fff;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
